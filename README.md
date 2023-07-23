@@ -1,5 +1,5 @@
 this is hosting link--->
-[https://react-chat-app12.netlify.app/](https://capable-concha-e4d3cc.netlify.app/login)
+https://react-chat-app12.netlify.app/
 
 Note: use this email and password to login and view the ui of web application...
 
